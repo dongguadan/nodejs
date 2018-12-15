@@ -1,4 +1,4 @@
-# nodejs
+# nodejs封装C++的Demo
 
 step 1 : npm init;
 
